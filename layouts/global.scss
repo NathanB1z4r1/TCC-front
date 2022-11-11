@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'BoschSansRegular';
+    src: url("@/assets/BoschSans-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'BoschSansBold';
+    src: url("@/assets/BoschSans-Bold.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'BoschSansBoldItalic';
+    src: url("@/assets/BoschSans-BoldItalic.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'BoschSansRegularItalic';
+    src: url("@/assets/BoschSans-RegularItalic.ttf");
+    font-weight: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.sidebar>* {
+    overflow: hidden !important;
+}
+
+.label-field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 10px !important;
+}
+
+.mt-4{
+    margin-top: 7vh !important;
+}
+
+.title{
+    width: 60%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  :focus-visible{
+    outline: none !important;
+  }
+
+  .titulo{
+    text-align: center;
+    font-family: "BoschSansRegular";
+  }
+  
+
+  .center{
+    padding-top: 70px;
+  }
+  .linha{
+    width: 100vw;
+    height: 1rem;
+    background-image: url("@/public/assets/img/linha_colorida.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .field > input{
+    width: 482px;
+    height: 50px;
+    font-size: large;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+  }
+
+  .field > label{
+    width: 156px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;  
+  }
+
+  .label-field {
+    padding: .5rem 1rem;
+    background-color: #0E3554;
+    color: aliceblue;
+    font-weight: bold;
+    min-width: 48px;
+    border-radius: 10px;
+    
+  }
+
+
+  .label-field2 {
+    padding: .5rem 1rem;
+    background-color: #0E3554;
+    color: aliceblue;
+    font-weight: bold;
+    min-width: 48px;
+    border-radius: 10px;
+    font-family: "BoschSansBold";
+  }
+
+  .additional-buttons {
+    display: flex;
+    gap: .75rem;
+    flex-direction: column;
+  }
+
+  .additional-buttons > button{
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+  }

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Adicionar_colaborador",
+    "path": "/Adicionar_colaborador",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Adicionar_colaborador\\\\index.vue",
+    "chunkName": "pages/Adicionar_colaborador/index"
+  },
+  {
+    "name": "Cadastrar_colaborador",
+    "path": "/Cadastrar_colaborador",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Cadastrar_colaborador\\\\index.vue",
+    "chunkName": "pages/Cadastrar_colaborador/index"
+  },
+  {
+    "name": "Cadastro",
+    "path": "/Cadastro",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Cadastro\\\\index.vue",
+    "chunkName": "pages/Cadastro/index"
+  },
+  {
+    "name": "Cadastro_Treinamento",
+    "path": "/Cadastro_Treinamento",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Cadastro_Treinamento\\\\index.vue",
+    "chunkName": "pages/Cadastro_Treinamento/index"
+  },
+  {
+    "name": "Esqueci_senha",
+    "path": "/Esqueci_senha",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Esqueci_senha\\\\index.vue",
+    "chunkName": "pages/Esqueci_senha/index"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index"
+  },
+  {
+    "name": "Localizar_Colaborador",
+    "path": "/Localizar_Colaborador",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Localizar_Colaborador\\\\index.vue",
+    "chunkName": "pages/Localizar_Colaborador/index"
+  },
+  {
+    "name": "Realizar_Treinamento",
+    "path": "/Realizar_Treinamento",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Realizar_Treinamento\\\\index.vue",
+    "chunkName": "pages/Realizar_Treinamento/index"
+  },
+  {
+    "name": "Registrar_Colaboradores",
+    "path": "/Registrar_Colaboradores",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Registrar_Colaboradores\\\\index.vue",
+    "chunkName": "pages/Registrar_Colaboradores/index"
+  },
+  {
+    "name": "Registro_Participantes",
+    "path": "/Registro_Participantes",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Registro_Participantes\\\\index.vue",
+    "chunkName": "pages/Registro_Participantes/index"
+  },
+  {
+    "name": "Sortear_DDS",
+    "path": "/Sortear_DDS",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Sortear_DDS\\\\index.vue",
+    "chunkName": "pages/Sortear_DDS/index"
+  },
+  {
+    "name": "Treinamentos_realizados",
+    "path": "/Treinamentos_realizados",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Treinamentos_realizados\\\\index.vue",
+    "chunkName": "pages/Treinamentos_realizados/index"
+  },
+  {
+    "name": "Treinamentos_realizadosPT2",
+    "path": "/Treinamentos_realizadosPT2",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\Treinamentos_realizadosPT2\\\\index.vue",
+    "chunkName": "pages/Treinamentos_realizadosPT2/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Instrutor\\\\Downloads\\\\TCC-Gerenciador_Competencias_Bosch-main\\\\Frontend-Nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
